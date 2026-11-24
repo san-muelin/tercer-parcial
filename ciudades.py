@@ -1,1 +1,1 @@
-ciudades = ["Cali","Bogota","Medellin","Barranqulla"]
+ciudades = ["Bogotá", "Medellín", "Barranquilla", "Cartagena", "Pereira"]
